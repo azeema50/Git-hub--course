@@ -1,2 +1,2 @@
-# Git-hub--course
+# Git-hub-course
 for leaerning git hub course
